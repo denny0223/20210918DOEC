@@ -121,6 +121,13 @@ output: index.html
 
 --
 
+<br />
+<div align="center">
+	<img style="width: 800px" src="./img/GoogleReader.jpg" />
+</div>
+
+--
+
 # 學習方式
 
 --
