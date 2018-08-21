@@ -29,12 +29,12 @@ output: index.html
 
 --
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/SU7OPfLO7d8?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;end=12&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/SU7OPfLO7d8?rel=0&amp;controls=0&amp;showinfo=0&amp;loop=1&amp;end=12&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 --
 
 ### Sdorica
-<iframe width="800" height="600" src="https://www.youtube.com/embed/2aY7il7zuNk?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/2aY7il7zuNk?rel=0&amp;controls=0&amp;showinfo=0&amp;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 --
 
